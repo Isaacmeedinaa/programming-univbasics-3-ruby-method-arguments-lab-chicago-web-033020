@@ -5,7 +5,7 @@
 
 # Problem 1:
 def introduction(name) 
-  puts "Hi, my name is #{name}"
+  puts "Hi, my name is #{name}."
 end
 
 # Problem 2:
